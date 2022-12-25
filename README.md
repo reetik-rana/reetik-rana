@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing apps
 - 🌱 I’m currently learning C\C++
 - 💞️ I’m looking to collaborate on a simple music player app
-- 📫 How to reach me ig-@reetikrana
+- 📫 How to reach me ig-@cap_sprout.
 
 <!---
 reetik-rana/reetik-rana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
