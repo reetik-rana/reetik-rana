@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reetik-rana
 - 👀 I’m interested in developing apps
-- 🌱 I’m currently learning C\C++,HTML,PYTHON
+- 🌱 I’m currently learning C\C++,React.Js,PYTHON
 - 📫 How to reach me ig-@reetikrana
 
 <!---
